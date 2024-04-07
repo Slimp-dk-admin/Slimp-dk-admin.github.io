@@ -1,11 +1,10 @@
 ---
 title: "ApolloEleven@tinder"
 date:   2024-03-30 10:03:58 +0100
-categories: jekyll update
-author: cotes
 categories: [Blogging]
-tags: [writing]
-render_with_liquid: true
+tags: [dating]
+image:
+ path: /assets/img/tinder.webp
 ---
 
 ##### Jeg står inden for alt hvad jeg siger og skriver. Dog ikke for hvordan du læser og opfatter det
