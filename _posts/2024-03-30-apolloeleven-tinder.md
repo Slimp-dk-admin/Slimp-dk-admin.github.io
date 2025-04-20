@@ -113,7 +113,7 @@ Der er så meget godt. Det handler bare om at finde det, der rør ved noget i sj
 * Tayler Swift - Anti Hero
 * KoRn - Issues
 * Kent - Skisser För Sommaren
-* Rammstein - Engel
+* Tool - Pneuma
 * Niall Horan - Heaven
 * Emilie Nicolas - Pstereo
 * AURORA - Runaway
